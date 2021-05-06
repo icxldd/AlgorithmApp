@@ -4,4 +4,10 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="BehaviorPatterns" />
+      <Folder Include="CreatePatterns" />
+      <Folder Include="StructurePatterns" />
+    </ItemGroup>
+
 </Project>

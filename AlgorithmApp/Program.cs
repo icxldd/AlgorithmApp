@@ -22,8 +22,15 @@ namespace AlgorithmApp
             // testSinglyLoopLinkedList();
             // BstTest();
             // maxHeapTest();
+            // testQueuesLeastNumbers();
+            testHashCode();
+        }
 
-            testQueuesLeastNumbers();
+        private static void testHashCode()
+        {
+            string hash1 = "12";
+            Console.WriteLine(hash1.GetHashCode());
+
 
         }
 
