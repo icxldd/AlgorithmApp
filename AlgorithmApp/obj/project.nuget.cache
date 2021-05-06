@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5BD4lgtKAvHdLi24VLiwdfGIpnyWK9ksIAoCj3QULEizsoAMBA4Q/khFLUTIDJQ07F7ezMgY40cEMDS6IRMEFg==",
+  "success": true,
+  "projectFilePath": "D:\\AlgorithmApp\\AlgorithmApp\\AlgorithmApp\\AlgorithmApp.csproj",
+  "expectedPackageFiles": [
+    "D:\\nugetpack\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\AlgorithmApp\AlgorithmApp\DataStructure\bin\Debug\net5.0\DataStructure.deps.json
+D:\AlgorithmApp\AlgorithmApp\DataStructure\bin\Debug\net5.0\DataStructure.dll
+D:\AlgorithmApp\AlgorithmApp\DataStructure\bin\Debug\net5.0\ref\DataStructure.dll
+D:\AlgorithmApp\AlgorithmApp\DataStructure\bin\Debug\net5.0\DataStructure.pdb
+D:\AlgorithmApp\AlgorithmApp\DataStructure\obj\Debug\net5.0\DataStructure.csprojAssemblyReference.cache
+D:\AlgorithmApp\AlgorithmApp\DataStructure\obj\Debug\net5.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgorithmApp\AlgorithmApp\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfoInputs.cache
+D:\AlgorithmApp\AlgorithmApp\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfo.cs
+D:\AlgorithmApp\AlgorithmApp\DataStructure\obj\Debug\net5.0\DataStructure.csproj.CoreCompileInputs.cache
+D:\AlgorithmApp\AlgorithmApp\DataStructure\obj\Debug\net5.0\DataStructure.dll
+D:\AlgorithmApp\AlgorithmApp\DataStructure\obj\Debug\net5.0\ref\DataStructure.dll
+D:\AlgorithmApp\AlgorithmApp\DataStructure\obj\Debug\net5.0\DataStructure.pdb
