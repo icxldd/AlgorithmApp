@@ -1,0 +1,12 @@
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\bin\Debug\net5.0\DesignPattern.deps.json
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\bin\Debug\net5.0\DesignPattern.dll
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\bin\Debug\net5.0\ref\DesignPattern.dll
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\bin\Debug\net5.0\DesignPattern.pdb
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\obj\Debug\net5.0\DesignPattern.csprojAssemblyReference.cache
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\obj\Debug\net5.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfoInputs.cache
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfo.cs
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\obj\Debug\net5.0\DesignPattern.dll
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\obj\Debug\net5.0\ref\DesignPattern.dll
+D:\AlgorithmApp\AlgorithmApp\DesignPattern\obj\Debug\net5.0\DesignPattern.pdb

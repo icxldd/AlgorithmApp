@@ -23,7 +23,8 @@ namespace AlgorithmApp
             // BstTest();
             // maxHeapTest();
             // testQueuesLeastNumbers();
-            testHashCode();
+            // testHashCode();
+            TestDesignPattern.Main2();
         }
 
         private static void testHashCode()

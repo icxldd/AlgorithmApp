@@ -42,6 +42,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "WeihanLi.Common": {
+              "target": "Package",
+              "version": "[1.0.46, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -5,6 +5,8 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.6.0" />
+        <PackageReference Include="Autofac" Version="4.9.4" />
         <Folder Include="BehaviorPatterns\ChainOfResponsibility" />
         <Folder Include="BehaviorPatterns\Command" />
         <Folder Include="BehaviorPatterns\Interpreter" />
@@ -12,23 +14,16 @@
         <Folder Include="BehaviorPatterns\Mediator" />
         <Folder Include="BehaviorPatterns\Memento" />
         <Folder Include="BehaviorPatterns\Observer" />
-        <Folder Include="BehaviorPatterns\State" />
-        <Folder Include="BehaviorPatterns\Strategy" />
         <Folder Include="BehaviorPatterns\TemplateMethod" />
         <Folder Include="BehaviorPatterns\Visitor" />
-        <Folder Include="CreatePatterns\AbstractFactory" />
-        <Folder Include="CreatePatterns\Builder" />
-        <Folder Include="CreatePatterns\FactoryMethod" />
         <Folder Include="CreatePatterns\Prototype" />
-        <Folder Include="CreatePatterns\SimpleFactory" />
         <Folder Include="CreatePatterns\Singleton" />
-        <Folder Include="StructurePatterns\Adapter" />
         <Folder Include="StructurePatterns\Bridge" />
         <Folder Include="StructurePatterns\Composite" />
         <Folder Include="StructurePatterns\Decorator" />
         <Folder Include="StructurePatterns\Facade" />
         <Folder Include="StructurePatterns\Flyweight" />
-        <Folder Include="StructurePatterns\Proxy" />
+        <PackageReference Include="WeihanLi.Common" Version="1.0.46" />
     </ItemGroup>
 
 </Project>

@@ -7,6 +7,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\DataStructure\DataStructure.csproj" />
+      <ProjectReference Include="..\DesignPattern\DesignPattern.csproj" />
     </ItemGroup>
 
 </Project>
